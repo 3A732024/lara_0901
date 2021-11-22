@@ -41,7 +41,7 @@
 
             <div class="form-group">
                 <label for="content">內容：</label>
-                <textarea id="content" name="title" class="form-control" rows="10"></textarea>
+                <textarea id="content" name="content" class="form-control" rows="10"></textarea>
             </div>
 
             <div class="form-group">
